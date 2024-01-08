@@ -1,5 +1,5 @@
 # 猎人模式 HunterMode
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210807160513504.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1pCemliaW5n,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](./img/H-MOD.jpg)
 
 >&emsp;&emsp;Hunter模式(简称:H-MODE),是一个与感染者Hunter对抗的游戏.人类玩家可通过选择单人或多人模式进行游戏通关.由于Hunter不间断对玩家进行骚扰和攻击,造成游戏的难度大大的提升,游戏的目的也是为了锻炼玩家的反应能力与技术的提升
 
